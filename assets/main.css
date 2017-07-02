@@ -475,6 +475,13 @@ p, ul {
   margin-top: 2rem;
   margin-bottom: 0.25rem; }
 
+.post h2 {
+  font-size: 1.825rem; }
+
+.post h3 {
+  font-size: 1.65rem;
+  font-weight: normal; }
+
 .post ul {
   margin-left: 0;
   padding-left: 0; }
