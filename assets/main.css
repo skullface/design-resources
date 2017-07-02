@@ -465,7 +465,7 @@ p, ul {
 
 .post__title__anchor:before {
   content: "#";
-  margin-left: -2.75rem;
+  margin-left: -2.65rem;
   border: 0;
   font-weight: 400;
   color: #ddd; }

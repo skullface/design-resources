@@ -15,7 +15,7 @@ layout: default
 
 {% for post in site.posts %}
 <article class="post" id="{{ post.slug }}">
-  <h1 class="post__title"><a href="{{ post.url }}" class="post__title__anchor"></a> {{ post.title }}</h1>
+  <h1 class="post__title"><a href="#{{ post.slug }}" class="post__title__anchor"></a> {{ post.title }}</h1>
   <div class="post__content">
     {{ post.content }}
   </div>

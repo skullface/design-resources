@@ -14,7 +14,7 @@
 
   .post__title__anchor:before {
     content: "#";
-    margin-left: -2.75rem;
+    margin-left: -2.65rem;
     border: 0;
     font-weight: $font-weight__normal;
     color: #ddd;
@@ -24,6 +24,14 @@
 .post h3 {
   margin-top: 2rem;
   margin-bottom: 0.25rem;
+}
+
+.post h2 {
+  font-size: 2.5rem;
+}
+
+.post h3 {
+  font-size: 2rem;
 }
 
 .post ul {
