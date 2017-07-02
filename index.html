@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<header class="site__header">
+  <h1 class="site__title"><a href="/">{{ site.title }}</a></h1>
+  <div>
+    My favorite <ul class="site__header__nav">
+    {% for post in site.posts %}
+      <li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul> for designers.
+  </div>
+</header>
+
+{% for post in site.posts %}
+<article class="post" id="{{ post.slug }}">
+  <h1 class="post__title"><a href="{{ post.url }}" class="post__title__anchor"></a> {{ post.title }}</h1>
+  <div class="post__content">
+    {{ post.content }}
+  </div>
+</article>
+{% endfor %}

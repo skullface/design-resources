@@ -1,0 +1,17 @@
+# Site settings
+title: Design Resources
+description: My favorite websites, tools, and books for design.
+author: Jessica Paoli
+locale: en-US
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title
+
+# Exclude from site build
+exclude:
+  - .DS_Store
+  - node_modules
+  - gulpfile.js
+  - package.json

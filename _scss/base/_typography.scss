@@ -1,0 +1,45 @@
+/**
+ *
+ * @group Typography
+ *
+*/
+
+/// Settings
+/// -------------
+
+/// Weights + sizing
+$font-weight__normal:   400;
+$font-weight__bold:     700;
+$font-size__base:       100%;
+$leading:               1.5;
+
+/// Family stacks
+$font-family__body:     -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+/// Styles
+/// -------------
+body {
+  font: $font-weight__normal $font-size__base $font-family__body;
+  line-height: $leading;
+  color: #343434;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.1;
+}
+
+a {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+  font-weight: $font-weight__bold;
+  border-bottom: solid 1px #92c1ff;
+  &:hover {
+    color: #136ec2;
+  }
+}
+
+p, ul {
+  margin-bottom: 2rem;
+  font-size: 1.125rem;
+}

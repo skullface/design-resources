@@ -1,0 +1,36 @@
+.post {
+  margin-bottom: 6rem;
+}
+
+.post__title {
+  font-size: 2.75rem;
+  font-weight: $font-weight__normal;
+  &:hover {
+    .post__title__anchor:before {
+      color: #136ec2;
+    }
+  }
+}
+
+  .post__title__anchor:before {
+    content: "#";
+    margin-left: -2.75rem;
+    border: 0;
+    font-weight: $font-weight__normal;
+    color: #ddd;
+  }
+
+.post h2,
+.post h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.25rem;
+}
+
+.post ul {
+  margin-left: 0;
+  padding-left: 0;
+}
+
+  .post li {
+    margin-bottom: 0.75rem;
+  }
