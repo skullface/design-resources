@@ -3,12 +3,29 @@
 
   {% include head.html %}
 
-  <body class="site__content">
+  <body class="site__container">
 
-      <main>
+    <section class="site__info">
+      <nav class="site__nav">
+        <ul>
+          {% for post in site.posts reversed %}
+            <li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </section>
+
+    <section>
+
+      <header class="site__header">
+        <h1 class="site__title">{{ site.title }}</h1>
+        <p class="lede">Select websites, tools, and books for learning and working in design.</p>
+        <p class="credit">made by <a href="http://twitter.com/skullface">@skullface</a> &bull; view/contribute on <a href="http://github.com/skullface/design-resources">GitHub</a></p>
+      </header>
+
+      <main class="site__content">
       {{ content }}
-      </main>
+    </section>
 
-    {% include footer.html %}
   </body>
 </html>

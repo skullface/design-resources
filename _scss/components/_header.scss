@@ -1,20 +1,22 @@
 .site__header {
-  margin-bottom: 6rem;
-  font-size: .9rem;
+  padding: 3rem;
+  padding-left: $column + 3rem;
+	@media ( min-width: 1000px ) {
+    margin-bottom: 3rem;
+    padding: 6rem 3rem 6rem;
+    padding-left: $column--large + 5rem;
+  }
+	@media ( max-width: 666px ) {
+    padding: 2rem;
+  }
+  font-family: $font-family__head;
+  background: #a1f0df;
+  color: #892eca;
 }
 
-.site__header__nav {
-  margin: 0;
-  padding: 0;
-  font-size: .9rem;
-  list-style: none;
-  display: inline;
-  text-transform: lowercase;
-  li {
-    display: inline-block;
+  .site__title {
   }
-  li:not(:last-child):after {
-    content: " \00B7";
-    color: #aaa;
-  }
+
+.credit {
+  font-size: 65%;
 }
