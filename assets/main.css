@@ -76,6 +76,13 @@ a {
   cursor: pointer;
   text-decoration: none; }
 
+em, i {
+  font-family: Georgia, serif;
+  font-style: italic; }
+
+strong, b {
+  font-weight: 700; }
+
 p + p,
 p + ul,
 ul + p,
@@ -91,6 +98,7 @@ h1 {
       font-size: 400%; } }
 
 h2 {
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
   font-size: 165%; }
 
