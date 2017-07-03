@@ -3,9 +3,11 @@
 }
 
   .post a.post__title__anchor {
-    font-size: 2rem;
+    font-size: 2.75rem;
+    position: relative;
+    top: 0.5rem;
     vertical-align: super;
-    font-weight: $font-weight__normal;
+    font-weight: $font-weight__bold;
     text-decoration: none;
     color: #a1f0df;
     border: 0;
@@ -15,12 +17,20 @@
   }
 
 .post ul {
+  list-style: none;
   margin-left: 0;
-  padding-left: 0;
+  text-indent: -0.8em;
 }
 
   .post li {
     margin-bottom: 1.125rem;
+    &:before {
+      content: "\00B7";
+      display: block;
+      float: left;
+      width: 0.8em;
+      color: #aaa;
+    }
   }
 
 .post a {
@@ -33,4 +43,28 @@
 
 .post h1 {
   padding-top: 2rem;
+}
+
+.post ul.fonts-list {
+  margin-left: -0.8rem;
+    line-height: 1.2;
+    column-count: 3;
+	@media ( max-width: 1100px ) {
+    column-count: 2;
+  }
+	@media ( max-width: 500px ) {
+    column-count: 1;
+  }
+  li {
+    margin-bottom: 1.25rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+  li:before {
+    content: "\00B7";
+    display: block;
+    float: left;
+    width: 0.8em;
+    color: #aaa;
+  }
 }

@@ -14,8 +14,8 @@ $font-size__base:       112.5%;
 $leading:               1.6;
 
 /// Family stacks
-$font-family__body:     Georgia, serif;
-$font-family__head:     -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+$font-family__body:     "harfang-pro", Georgia, serif;
+$font-family__head:     "ars-maquette-web", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 
 /// Styles
 /// -------------
@@ -32,7 +32,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
   font-family: $font-family__head;
   font-weight: $font-weight__bold;
-  line-height: 1.125;
+  line-height: 1;
 }
 
 a {
@@ -68,13 +68,22 @@ h1 {
   }
 }
 
+.post a em {
+//  font-weight: $font-weight__normal;
+}
+
 h2 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
-  font-size: 165%;
+  font-size: 175%;
 }
 
 h3 {
-  font-weight: $font-weight__normal;
-  font-size: 135%;
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  font-size: 125%;
+}
+
+h2 + h3 {
+  margin-top: 1.5rem;
 }

@@ -15,8 +15,17 @@
 }
 
   .site__title {
+    max-width: 44rem;
   }
+
+.lede {
+  max-width: 44rem;
+  font-size: 125%;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+}
 
 .credit {
   font-size: 65%;
+  margin: 0;
 }

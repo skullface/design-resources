@@ -9,6 +9,9 @@ html {
 *, *:before, *:after {
   box-sizing: inherit; }
 
+:focus {
+  outline: none; }
+
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
@@ -56,7 +59,7 @@ table {
  *
 */
 body {
-  font: 400 112.5% Georgia, serif;
+  font: 400 112.5% "harfang-pro", Georgia, serif;
   line-height: 1.6;
   color: #242424; }
   @media (min-width: 1000px) {
@@ -65,19 +68,19 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   margin-bottom: 1rem;
-  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "ars-maquette-web", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 700;
-  line-height: 1.125; }
+  line-height: 1; }
 
 a {
-  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "ars-maquette-web", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   font-weight: 700;
   color: inherit;
   cursor: pointer;
   text-decoration: none; }
 
 em, i {
-  font-family: Georgia, serif;
+  font-family: "harfang-pro", Georgia, serif;
   font-style: italic; }
 
 strong, b {
@@ -100,11 +103,15 @@ h1 {
 h2 {
   margin-top: 2.5rem;
   margin-bottom: 1rem;
-  font-size: 165%; }
+  font-size: 175%; }
 
 h3 {
-  font-weight: 400;
-  font-size: 135%; }
+  text-transform: uppercase;
+  letter-spacing: .15rem;
+  font-size: 125%; }
+
+h2 + h3 {
+  margin-top: 1.5rem; }
 
 .site__info {
   position: fixed;
@@ -148,7 +155,7 @@ h3 {
 
 .site__nav ul {
   margin: 0;
-  padding: 0;
+  padding: 0 10px 0 0;
   font-size: 1rem;
   list-style: none; }
   .site__nav ul li:not(:last-of-type) {
@@ -181,10 +188,24 @@ h3 {
   .site__footer ul {
     max-width: 44rem; }
 
+.back-to-top {
+  position: fixed;
+  bottom: 20px;
+  right: 10px;
+  line-height: 1; }
+  .back-to-top a {
+    padding: 5px 10px;
+    font-size: 200%;
+    font-weight: 700;
+    text-decoration: none;
+    color: #a1f0df; }
+    .back-to-top a:hover {
+      color: #892eca; }
+
 .site__header {
   padding: 3rem;
   padding-left: 18rem;
-  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-family: "ars-maquette-web", -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   background: #a1f0df;
   color: #892eca; }
   @media (min-width: 1000px) {
@@ -196,8 +217,18 @@ h3 {
     .site__header {
       padding: 2rem; } }
 
+.site__title {
+  max-width: 44rem; }
+
+.lede {
+  max-width: 44rem;
+  font-size: 125%;
+  margin-bottom: 1.5rem;
+  line-height: 1.2; }
+
 .credit {
-  font-size: 65%; }
+  font-size: 65%;
+  margin: 0; }
 
 .site__footer p {
   font-size: .9rem;
@@ -207,9 +238,11 @@ h3 {
   margin-bottom: 6rem; }
 
 .post a.post__title__anchor {
-  font-size: 2rem;
+  font-size: 2.75rem;
+  position: relative;
+  top: 0.5rem;
   vertical-align: super;
-  font-weight: 400;
+  font-weight: 700;
   text-decoration: none;
   color: #a1f0df;
   border: 0; }
@@ -217,11 +250,18 @@ h3 {
     content: "#"; }
 
 .post ul {
+  list-style: none;
   margin-left: 0;
-  padding-left: 0; }
+  text-indent: -0.8em; }
 
 .post li {
   margin-bottom: 1.125rem; }
+  .post li:before {
+    content: "\00B7";
+    display: block;
+    float: left;
+    width: 0.8em;
+    color: #aaa; }
 
 .post a {
   border-bottom: solid 2px #a1f0df; }
@@ -231,3 +271,30 @@ h3 {
 
 .post h1 {
   padding-top: 2rem; }
+
+.post ul.fonts-list {
+  margin-left: -0.8rem;
+  line-height: 1.2;
+  -webkit-column-count: 3;
+     -moz-column-count: 3;
+          column-count: 3; }
+  @media (max-width: 1100px) {
+    .post ul.fonts-list {
+      -webkit-column-count: 2;
+         -moz-column-count: 2;
+              column-count: 2; } }
+  @media (max-width: 500px) {
+    .post ul.fonts-list {
+      -webkit-column-count: 1;
+         -moz-column-count: 1;
+              column-count: 1; } }
+  .post ul.fonts-list li {
+    margin-bottom: 1.25rem;
+    padding-left: 1rem;
+    padding-right: 1rem; }
+  .post ul.fonts-list li:before {
+    content: "\00B7";
+    display: block;
+    float: left;
+    width: 0.8em;
+    color: #aaa; }
