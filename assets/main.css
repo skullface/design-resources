@@ -272,27 +272,27 @@ h2 + h3 {
 .post h1 {
   padding-top: 2rem; }
 
-.post ul.fonts-list {
+.post ul.short-list {
   margin-left: -0.8rem;
   line-height: 1.2;
   -webkit-column-count: 3;
      -moz-column-count: 3;
           column-count: 3; }
   @media (max-width: 1100px) {
-    .post ul.fonts-list {
+    .post ul.short-list {
       -webkit-column-count: 2;
          -moz-column-count: 2;
               column-count: 2; } }
   @media (max-width: 500px) {
-    .post ul.fonts-list {
+    .post ul.short-list {
       -webkit-column-count: 1;
          -moz-column-count: 1;
               column-count: 1; } }
-  .post ul.fonts-list li {
+  .post ul.short-list li {
     margin-bottom: 1.25rem;
     padding-left: 1rem;
     padding-right: 1rem; }
-  .post ul.fonts-list li:before {
+  .post ul.short-list li:before {
     content: "\00B7";
     display: block;
     float: left;

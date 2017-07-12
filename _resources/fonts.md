@@ -11,7 +11,7 @@ layout: post
 - [YouWorkForThem](https://www.youworkforthem.com/fonts/) — thousands of fonts in the "original creative marketplace"
 
 ##  Individual foundries
-{:refdef: .fonts-list}
+{:refdef: .short-list}
 - [A2 Type](http://www.a2-type.co.uk/)
 - [Avondale Type Co.](https://avondaletypeco.com/)
 - [Beta Type](http://betatype.com/)
