@@ -1,11 +1,29 @@
 # Design Resources
-Select websites, tools, assets, and readings for working in and learning about design.
+_Select websites, tools, assets, and readings for working in and learning about design._
+
+👋 Hi, I’m [@skullface](http://twitter.com/skullface)!
 
 ✨ I used to keep this info as a Google Doc to share with my most trusted coworkers and friends, but I thought the info would be better served in the open.
 
 ⭐️ These lists and the contents within reflect _my_ opinions. I’m aiming for quantity over quality — only resources I would recommend. Suggestions, issues, and PRs are welcome 💖, but just because a resource exists doesn’t necessarily mean I’d recommend it.
 
 💫 Website content reproduced in full below!
+
+---
+
+* [Accessibility resources](#accessibility-resources)
+* [Books and zines](#books-and-zines)
+* [Browser features](#browser-features)
+* [Brushes](#brushes)
+* [Colors and color palettes](#colors-and-color-palettes)
+* [Fonts](#fonts)
+* [Icons and emoji](#icons-and-emoji)
+* [Inspiration and criticism websites](#inspiration-and-criticism-websites)
+* [Mockups](#mockups)
+* [Prototyping tools](#prototyping-tools)
+* [Stock graphics](#stock-graphics)
+* [Stock photography](#stock-photography)
+* [User testing and interactive feedback tools](#user-testing-and-interactive-feedback-tools)
 
 ---
 
