@@ -1,5 +1,4 @@
-# Design Resources
-_Select websites, tools, assets, and readings for working in and learning about design._
+# [Design Resources](http://designresources.party)
 
 👋 Hi, I’m [@skullface](http://twitter.com/skullface)!
 
@@ -7,9 +6,11 @@ _Select websites, tools, assets, and readings for working in and learning about 
 
 ⭐️ These lists and the contents within reflect _my_ opinions. I’m aiming for quantity over quality — only resources I would recommend. Suggestions, issues, and PRs are welcome 💖, but just because a resource exists doesn’t necessarily mean I’d recommend it.
 
-💫 Website content reproduced in full below!
+💫 [Website content](http://designresources.party) reproduced in full below!
 
 ---
+
+# Table of contents
 
 * [Accessibility resources](#accessibility-resources)
   * [Checklists](#checklists)
@@ -21,6 +22,13 @@ _Select websites, tools, assets, and readings for working in and learning about 
   * [Testing tools and development references](#testing-tools-and-development-references)
   * [Further reading](#further-reading)
 * [Books and zines](#books-and-zines)
+  * [Individual publications](#individual-publications)
+    * [Accessibility](#accessibility)
+    * [History](#history)
+    * [Independent practice, consulting, freelancing](#independent-practice-consulting-freelancing)
+    * [Process and mindset](#process-and-mindset)
+    * [User experience and interaction design](#user-experience-and-interaction-design)
+  * [Publishers and distributors](#publishers-and-distributors)
 * [Browser features](#browser-features)
   * [Google Chrome extensions and bookmarklets](#google-chrome-extensions-and-bookmarklets)
   * [Google Chrome DevTools](#google-chrome-devtools)
