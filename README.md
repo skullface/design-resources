@@ -1,4 +1,4 @@
-# [designresources.party](http://designresources.party)
+# [Design Resources](http://designresources.party)
 
 👋 Hi, I’m [@skullface](http://twitter.com/skullface)!
 
@@ -10,9 +10,7 @@
 
 ---
 
-# Design Resources
-
-## Contents
+## Table of contents
 * [Accessibility resources](#accessibility-resources)
   * [Checklists](#checklists)
   * [Guidelines](#guidelines)
@@ -55,8 +53,6 @@
 * [Stock graphics](#stock-graphics)
 * [Stock photography](#stock-photography)
 * [User testing and interactive feedback tools](#user-testing-and-interactive-feedback-tools)
-
----
 
 ## Accessibility resources
 
