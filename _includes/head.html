@@ -4,14 +4,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="og:site_name" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}">
 
+  <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta property="og:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate: 160 | escape }}">
+  <meta name="twitter:description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | truncate:
+    160 | escape }}">
   <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
-  <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
+
+  <meta property="og:image" content="/assets/graphicdesign.png">
+  <meta name="twitter:image" content="/assets/graphicdesign.png">
   <link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" type="image/png" href="favicon.png" />
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:image:alt" content="gfx #design is my passion">
 
   <script src="https://use.typekit.net/fjp6vec.js"></script>
   <script>try{Typekit.load({ async: true });}catch(e){}</script>

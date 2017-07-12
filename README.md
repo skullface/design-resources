@@ -54,6 +54,8 @@
 * [Stock photography](#stock-photography)
 * [User testing and interactive feedback tools](#user-testing-and-interactive-feedback-tools)
 
+---
+
 ## Accessibility resources
 
 #### Checklists
