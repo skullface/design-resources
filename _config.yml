@@ -1,6 +1,6 @@
 # Site settings
 title: Design Resources
-description: "Select websites, tools, and books for learning and working in design."
+description: "Select websites, tools, assets, and readings for working in and learning about design."
 author: Jessica Paoli
 locale: en-US
 
@@ -17,7 +17,7 @@ exclude:
   - package.json
   - README.md
 
-# Start a collection so we don't require dates in "_posts"
+# Content grouping
 collections:
   resources:
     output: true

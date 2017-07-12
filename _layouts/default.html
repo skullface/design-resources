@@ -9,7 +9,7 @@
       <nav class="site__nav">
         <ul>
           {% for resource in site.resources %}
-            <li><a href="#{{ resource.slug }}">{{ resource.title }}</a></li>
+            <li><a href="/#{{ resource.slug }}">{{ resource.title }}</a></li>
           {% endfor %}
         </ul>
       </nav>
@@ -19,7 +19,7 @@
 
       <header class="site__header" id="📐">
         <h1 class="site__title">{{ site.title }}</h1>
-        <p class="lede">Select websites, tools, and books for learning and working in design.</p>
+        <p class="lede">{{ site.description }}</p>
         <p class="credit">made by <a href="http://twitter.com/skullface">@skullface</a> &middot; view/contribute on <a href="http://github.com/skullface/design-resources">GitHub</a></p>
       </header>
 
