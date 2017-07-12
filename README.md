@@ -57,59 +57,57 @@
 ---
 
 ## Accessibility resources
+### Checklists
+- [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) — WCAG 2.0 compliance checklist for developers, driven by priority
+- [HHS.gov’s checklist for creating accessible PDFs](https://www.hhs.gov/web/section-508/making-files-accessible/pdf-required/index.html) — designing accessibly for artifacts that aren't apps or websites is important, too!
+- [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) — best practices for designers, engineers, PMs, QA, and editorial staff (with sources to read more; great to send to coworkers on different teams)
 
-#### Checklists
-* [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) — driven by priority for web developers
-* [HHS.gov’s checklist for creating accessible PDFs](https://www.hhs.gov/web/section-508/making-files-accessible/pdf-required/index.html) — accessibility in artifacts that aren’t apps or websites is important, too!
-* [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) — best practices for designers, engineers, PMs, QA, and editorial staff (with sources to read more — great to send to coworkers on different teams)
+### Guidelines
+- [18F Accessibility Guide](https://accessibility.18f.gov/) — hub of accessibility resources and principles by government office 18F
+- [Empathy Prompts](https://empathyprompts.net/) — open source list of considerations & challenges to help build empathy
+- [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html#accessibility-principles) — practices for color, sound, motion, layout, copy, hierarchy, focus, and implementation
+- [Inclusive Design Principles](http://inclusivedesignprinciples.org/) — seven clear principles to follow to put people first, by leading experts The Paciello Group
+- [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive) — Microsoft's guidelines for designing accessible and inclusive experiences, including a detailed manual (.pdf) with awesome visualizations, and activity cards for considerations & challenges while brainstorming
 
-#### Guidelines
-* [18F Accessibility Guide](https://accessibility.18f.gov/) — hub of accessibility resources and principles hub by government office 18F
-* [Empathy Prompts](https://empathyprompts.net/) — considerations & challenges to develop ideas with empathy
-* [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html##accessibility-principles) — practices for color, sound, motion, layout, copy, hierarchy, focus, and implementation
-* [Inclusive Design Principles](http://inclusivedesignprinciples.org/) — set of 7 principles to follow in the creation of websites and applications that put people first
-* [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive) — Microsoft’s guidelines for designing accessible and inclusive experiences, including a detailed manual (.pdf) with awesome visualizations, and activity cards for considerations & challenges while brainstorming
+### Industry leaders, educators, and consultants
+- [Deque](https://www.deque.com/)
+- [Karl Groves](http://www.karlgroves.com/)
+- [Knowability](https://www.knowbility.org/)
+- [Level Access](https://www.levelaccess.com/)
+- [Marcy Sutton](https://marcysutton.com/)
+- [The Paciello Group](https://www.paciellogroup.com/)
+- [Simply Accessible](http://simplyaccessible.com/)
+- [WebAIM](http://webaim.org/resources/designers/)
 
-#### Industry leaders, educators, and consultants
-* [Deque](https://www.deque.com/)
-* [Karl Groves](http://www.karlgroves.com/)
-* [Knowability](https://www.knowbility.org/)
-* [Level Access](https://www.levelaccess.com/)
-* [Marcy Sutton](https://marcysutton.com/)
-* [The Paciello Group](https://www.paciellogroup.com/)
-* [Simply Accessible](http://simplyaccessible.com/)
-* [WebAIM](http://webaim.org/resources/designers/)
+### Online courses
+- [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
+- [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
 
-#### Online courses
-* [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
-* [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
+### Pattern/component libraries
+- [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
+- [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
 
-#### Pattern/component libraries
-* [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
-* [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
+### Requirements and standards
+- [🌐 WCAG 2.0](https://www.w3.org/TR/WCAG20/) — the W3C’s “Web Content Accessibility Guidelines” web standards specification
+- [🇺🇸 ADA](https://www.ada.gov/) — Americans with Disabilities Act prohibits discrimination against people with disabilities
+- [🇺🇸 Section 508](https://www.section508.gov/) — amendment to the Workforce Rehabilitation Act federally mandating all tech developed, procured, maintained, or used by the federal government be accessible to persons with disabilities
+- [🇨🇦 AODA](https://www.ontario.ca/laws/regulation/110191) — Accessibility for Ontarians with Disabilities Act, enacted for the province to become “accessible for people with disabilities by 2025”
 
-#### Requirements and standards
-* [🌐 WCAG 2.0](https://www.w3.org/TR/WCAG20/) — the W3C’s “Web Content Accessibility Guidelines” web standards specification
-* [🇺🇸 ADA](https://www.ada.gov/) — Americans with Disabilities Act prohibits discrimination against people with disabilities
-* [🇺🇸 Section 508](https://www.section508.gov/) — amendment to the Workforce Rehabilitation Act federally mandating all tech developed, procured, maintained, or used by the federal government be accessible to persons with disabilities
-* [🇨🇦 AODA](https://www.ontario.ca/laws/regulation/110191) — Accessibility for Ontarians with Disabilities Act was enacted for the province to become “accessible for people with disabilities by 2025”
+### Testing tools and development references
+- [Accessible-email.org](http://www.accessible-email.org/) — browser-based semantic analysis to report a11y and usability issues errors in marketing emails
+- [Colors palettes & contrast testing tools](#colors) — listed in the "Colors" category 👇
+- [HTML5 Accessibility](http://www.html5accessibility.com/) — lists current accessibility support status of HTML5 features across major browsers
+- [pa11y](http://pa11y.org/) — automated accessibility testing on the command line for programmatic accessibility reporting
+- [tota11y](http://khan.github.io/tota11y/) — Khan Academy's jQuery-based semantic analysis that can be inserted into a page or run as a bookmarklet
 
-#### Testing tools and development references
-* [Accessible-email.org](http://www.accessible-email.org/) — browser-based semantic analysis to report a11y and usability issues errors in marketing emails
-* *Colors palettes & contrast testing tools* — listed in the “Colors” category 👇
-* [HTML5 Accessibility](http://www.html5accessibility.com/) — lists current accessibility support status of HTML5 features across major browsers
-* [pa11y](http://pa11y.org/) — open source automated accessibility testing pal from the command line for programmatic accessibility reporting
-* [tota11y](http://khan.github.io/tota11y/) — Khan Academy’s jQuery-based semantic analysis that can be inserted into a page or run as a bookmarklet (look for an icon of eyeglasses at the bottom left of a page)
-
-#### Further reading
-* [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
-* [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y) — a curated list of awesome Accessibility tools, articles and resources on GitHub
+### Further reading
+- [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
+- [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y) — a curated list of awesome accessibility tools, articles and resources on GitHub
 * *Books on accessibility* — listed in the “Books” category 👇
 
 
-## Books and zines
-_Please note:_ none of the following links are affiliate links.
 
+## Books and zines
 #### Individual publications
 ###### Accessibility
 * [_A Web for Everyone_ by Sarah Horton & Whitney Quesenbery](http://rosenfeldmedia.com/books/a-web-for-everyone/), 2014 — practical advice and examples to build accessible web products without sacrificing design or innovation
