@@ -3,7 +3,7 @@ title: "Browser features"
 layout: post
 ---
 
-## Google Chrome extensions & bookmarklets
+## Google Chrome extensions and bookmarklets
 - [Tachyons X-ray](http://tachyons.io/xray/) — debug & align objects to an 8 or 16px grid
 - [Type Sample](http://www.typesample.com/) — identify and sample webfonts — 3 samples for free, or unlimited samples for $5/year subscription. available as a bookmarklet or Chrome extension
 - [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) — inspect a webfont's name, family, weight, size, style, color, line height, and source (if hosted via Google Fonts or Typekit)

@@ -5,7 +5,8 @@ layout: post
 *Please note:* none of the following links are affiliate links.
 
 ## Individual publications
-## Accessibility
+
+### Accessibility
 - [*A Web for Everyone* by Sarah Horton & Whitney Quesenbery](http://rosenfeldmedia.com/books/a-web-for-everyone/), 2014 — practical advice and examples to build accessible web products without sacrificing design or innovation
 - [*Inclusive Design Patterns — Coding Accessibility Into Web Design* by Heydon Pickering](https://www.smashingmagazine.com/inclusive-design-patterns/), 2016 — real-world techniques and strategies to build and prototype accessible interfaces
 
