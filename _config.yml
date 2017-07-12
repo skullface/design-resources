@@ -15,3 +15,10 @@ exclude:
   - node_modules
   - gulpfile.js
   - package.json
+  - README.md
+
+# Start a collection so we don't require dates in "_posts"
+collections:
+  resources:
+    output: true
+    permalink: /:collection/:name/

@@ -8,8 +8,8 @@
     <section class="site__info">
       <nav class="site__nav">
         <ul>
-          {% for post in site.posts reversed %}
-            <li><a href="#{{ post.slug }}">{{ post.title }}</a></li>
+          {% for resource in site.resources %}
+            <li><a href="#{{ resource.slug }}">{{ resource.title }}</a></li>
           {% endfor %}
         </ul>
       </nav>

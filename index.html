@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% for post in site.posts reversed %}
-<article class="post" id="{{ post.slug }}">
-  <h1 class="post__title">{{ post.title }} <a href="#{{ post.slug }}" class="post__title__anchor"></a></h1>
+{% for resource in site.resources %}
+<article class="post" id="{{ resource.slug }}">
+  <h1 class="post__title">{{ resource.title }} <a href="#{{ resource.slug }}" class="post__title__anchor"></a></h1>
   <div class="post__content">
-    {{ post.content }}
+    {{ resource.content }}
   </div>
 </article>
 {% endfor %}

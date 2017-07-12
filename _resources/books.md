@@ -5,6 +5,9 @@ layout: post
 *Please note:* none of the following links are affiliate links.
 
 ## Individual publications
+## Accessibility
+- [*A Web for Everyone* by Sarah Horton & Whitney Quesenbery](http://rosenfeldmedia.com/books/a-web-for-everyone/), 2014 — practical advice and examples to build accessible web products without sacrificing design or innovation
+
 ### History
 - [*Megg's History of Graphic Design* by Philip B. Meggs](https://www.goodreads.com/book/show/641593.Meggs_History_of_Graphic_Design?ac=1&from_search=true), 1983 — the unrivaled college textbook authority on the history of graphic design, mostly in America and Europe
 
