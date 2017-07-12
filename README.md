@@ -17,7 +17,7 @@
   * [Guidelines](#guidelines)
   * [Industry leaders, educators, and consultants](#industry-leaders-educators-and-consultants)
   * [Online courses](#online-courses)
-  * [Pattern/component libraries](#pattern-component-libraries)
+  * [Pattern/component libraries](#patterncomponent-libraries)
   * [Requirements and standards](#requirements-and-standards)
   * [Testing tools and development references](#testing-tools-and-development-references)
   * [Further reading](#further-reading)
@@ -43,7 +43,7 @@
 * [Inspiration and criticism websites](#inspiration-and-criticism-websites)
   * [Brand identity](#brand-identity)
   * [Illustration and art](#illustration-and-art)
-  * [Print, layout, packaging, art direction](#Print-layout-packaging-art-direction)
+  * [Print, layout, packaging, art direction](#print-layout-packaging-art-direction)
   * [Motion](#motion)
   * [Typography](#typography)
   * [Web, mobile, product](#web-mobile-product)
@@ -102,8 +102,8 @@
 * [pa11y](http://pa11y.org/) — open source automated accessibility testing pal from the command line for programmatic accessibility reporting
 * [tota11y](http://khan.github.io/tota11y/) — Khan Academy’s jQuery-based semantic analysis that can be inserted into a page or run as a bookmarklet (look for an icon of eyeglasses at the bottom left of a page)
 
-## Further regarding
-* [a11y Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
+## Further reading
+* [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
 * [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y) — a curated list of awesome Accessibility tools, articles and resources on GitHub
 * *Books on accessibility* — listed in the “Books” category 👇
 
@@ -140,7 +140,7 @@ _Please note:_ none of the following links are affiliate links.
 
 
 # Browser features
-## Google Chrome extensions & bookmarklets
+## Google Chrome extensions and bookmarklets
 * [Tachyons X-ray](http://tachyons.io/xray/) — debug & align objects to an 8 or 16px grid
 * [Type Sample](http://www.typesample.com/) — identify and sample webfonts — 3 samples for free, or unlimited samples for $5/year subscription. available as a bookmarklet or Chrome extension
 * [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) — inspect a webfont’s name, family, weight, size, style, color, line height, and source (if hosted via Google Fonts or Typekit)
