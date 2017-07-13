@@ -29,7 +29,7 @@ layout: post
 - [HvD Fonts](http://www.hvdfonts.com/)
 - [Just Another Foundry](http://justanotherfoundry.com/)
 - [Lineto](https://lineto.com/)
-- [Mark Simpson](http://www.marksimpson.com/)
+- [Mark Simonson](https://www.marksimonson.com/)
 - [Okay Type](https://okaytype.com/)
 - [P22](https://www.p22.com/)
 - [Process Type](https://processtypefoundry.com/fonts/)
