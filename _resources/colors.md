@@ -15,6 +15,7 @@ layout: post
 
 ## Accessibility testing tools
 - [Color Oracle](http://colororacle.org/) — open source macOS color blindness simulator
-- [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS easy-to-use eye-dropper tool for text/bg accessibility testing
+- [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS eye-dropper tool for text/bg accessibility testing, shows fail/AA Large/AA/AAA results
+- [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
 - [Hex Naw](https://hexnaw.com/) — input up to 12 hex codes to test entire color systems for accessible contrast
 - [Online contrast checker](http://webaim.org/resources/contrastchecker/): input text/bg hex codes for accessible contrast testing

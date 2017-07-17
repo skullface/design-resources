@@ -151,7 +151,6 @@
 
 
 ## Brushes
-
 * [Kyle T. Webster](https://www.kylebrush.com/) — best Photoshop brushes for drawing and adding small texture (though they are not of much use without a pressure-sensitive tablet)
 * [RetroSupply](http://www.retrosupply.co/collections/brushes) — Photoshop and Illustrator brushes for multiple uses, including adding large (2000px) texture. recommended packs: Standard Issue Brush & Texture Bundle, Standard Issue Subtle Brush Kit, VectorFuzz
 * [Shauna Parmesan’s “Hand Lettering Toolbox”](https://www.retrosupply.co/products/the-hand-lettering-toolbox?variant=22157366791) — Photoshop brushes made exclusively for digital lettering
@@ -168,13 +167,12 @@
 * [Wikipedia’s category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates) — if you wanna nerd out
 
 #### Accessible color palettes
-
 * [Randoma11y](https://randoma11y.com/) — accessibility-friendly random color generator for text & background combinations
 
 #### Accessibility testing tools
-
 * [Color Oracle](http://colororacle.org/) — open source macOS color blindness simulator
-* [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS easy-to-use eye-dropper tool for text/bg accessibility testing
+- [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS eye-dropper tool for text/bg accessibility testing, shows fail/AA Large/AA/AAA results
+- [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
 * [Hex Naw](https://hexnaw.com/) — input up to 12 hex codes to test entire color systems for accessible contrast
 * [Online contrast checker](http://webaim.org/resources/contrastchecker/): input text/bg hex codes for accessible contrast testing
 
@@ -182,7 +180,6 @@
 
 ## Fonts
 #### Directories and marketplaces
-
 * [Google Fonts](https://fonts.google.com/) — hundreds of free webfonts hosted via Google or self-hosted, downloadable via [GitHub repo](https://github.com/google/fonts) with individual licenses
 * [MyFonts](http://myfonts.com) — thousands of fonts from all kinds of foundries, includes some trial fonts & free families. (good for searching and testing, but it’s better to buy through the foundries themselves!)
 * [TypeKit](https://typekit.com/) — included with Adobe CC subscription, some fonts & families are only available for desktop _or_ web use. larger selection available for individual purchase through Typekit Marketplace
@@ -190,7 +187,6 @@
 * [YouWorkForThem](https://www.youworkforthem.com/fonts/) — thousands of fonts in the “original creative marketplace”
 
 #### Individual foundries
-
 * [A2 Type](http://www.a2-type.co.uk/)
 * [Avondale Type Co.](https://avondaletypeco.com/)
 * [Beta Type](http://betatype.com/)
@@ -229,7 +225,6 @@
 
 
 ## Inspiration and criticism websites
-
 #### Brand identity
 - [BP & O](http://bpando.org) — killer packaging and brand design gallery
 - [Brand New](http://www.underconsideration.com/brandnew) — brand identity case studies
