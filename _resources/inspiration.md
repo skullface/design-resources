@@ -49,9 +49,10 @@ layout: post
 - [Unmatched Style](http://unmatchedstyle.com) — website design and interactive components gallery
 
 ### Visual design
+- [Admire The Web](https://www.admiretheweb.com) — website design gallery
 - [HTTPSTER](http://httpster.net) — website design gallery
 - [One Page Love](https://onepagelove.com) — one-page website design gallery
 - [Really Good Emails](http://reallygoodemails.com) — email design gallery
-- [Siteinspire](http://siteinspire.com) — website design gallery 
+- [Siteinspire](http://siteinspire.com) — website design gallery
 - [Site See](https://sitesee.co) — website design gallery
 - [Web Creme](http://www.webcreme.com) — website design gallery
