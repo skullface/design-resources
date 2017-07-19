@@ -58,51 +58,51 @@
 
 ## Accessibility resources
 ### Checklists
-- [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) — WCAG 2.0 compliance checklist for developers, driven by priority
-- [HHS.gov’s checklist for creating accessible PDFs](https://www.hhs.gov/web/section-508/making-files-accessible/pdf-required/index.html) — designing accessibly for artifacts that aren't apps or websites is important, too!
-- [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) — best practices for designers, engineers, PMs, QA, and editorial staff (with sources to read more; great to send to coworkers on different teams)
+* [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) — WCAG 2.0 compliance checklist for developers, driven by priority
+* [HHS.gov’s checklist for creating accessible PDFs](https://www.hhs.gov/web/section-508/making-files-accessible/pdf-required/index.html) — designing accessibly for artifacts that aren't apps or websites is important, too!
+* [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) — best practices for designers, engineers, PMs, QA, and editorial staff (with sources to read more; great to send to coworkers on different teams)
 
 ### Guidelines
-- [18F Accessibility Guide](https://accessibility.18f.gov/) — hub of accessibility resources and principles by government office 18F
-- [Empathy Prompts](https://empathyprompts.net/) — open source list of considerations & challenges to help build empathy
-- [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html#accessibility-principles) — practices for color, sound, motion, layout, copy, hierarchy, focus, and implementation
-- [Inclusive Design Principles](http://inclusivedesignprinciples.org/) — seven clear principles to follow to put people first, by leading experts The Paciello Group
-- [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive) — Microsoft's guidelines for designing accessible and inclusive experiences, including a detailed manual (.pdf) with awesome visualizations, and activity cards for considerations & challenges while brainstorming
+* [18F Accessibility Guide](https://accessibility.18f.gov/) — hub of accessibility resources and principles by government office 18F
+* [Empathy Prompts](https://empathyprompts.net/) — open source list of considerations & challenges to help build empathy
+* [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html#accessibility-principles) — practices for color, sound, motion, layout, copy, hierarchy, focus, and implementation
+* [Inclusive Design Principles](http://inclusivedesignprinciples.org/) — seven clear principles to follow to put people first, by leading experts The Paciello Group
+* [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive) — Microsoft's guidelines for designing accessible and inclusive experiences, including a detailed manual (.pdf) with awesome visualizations, and activity cards for considerations & challenges while brainstorming
 
 ### Industry leaders, educators, and consultants
-- [Deque](https://www.deque.com/)
-- [Karl Groves](http://www.karlgroves.com/)
-- [Knowability](https://www.knowbility.org/)
-- [Level Access](https://www.levelaccess.com/)
-- [Marcy Sutton](https://marcysutton.com/)
-- [The Paciello Group](https://www.paciellogroup.com/)
-- [Simply Accessible](http://simplyaccessible.com/)
-- [WebAIM](http://webaim.org/resources/designers/)
+* [Deque](https://www.deque.com/)
+* [Karl Groves](http://www.karlgroves.com/)
+* [Knowability](https://www.knowbility.org/)
+* [Level Access](https://www.levelaccess.com/)
+* [Marcy Sutton](https://marcysutton.com/)
+* [The Paciello Group](https://www.paciellogroup.com/)
+* [Simply Accessible](http://simplyaccessible.com/)
+* [WebAIM](http://webaim.org/resources/designers/)
 
 ### Online courses
-- [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
-- [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
+* [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
+* [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
 
 ### Pattern/component libraries
-- [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
-- [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
+* [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
+* [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
 
 ### Requirements and standards
-- [🌐 WCAG 2.0](https://www.w3.org/TR/WCAG20/) — the W3C’s “Web Content Accessibility Guidelines” web standards specification
-- [🇺🇸 ADA](https://www.ada.gov/) — Americans with Disabilities Act prohibits discrimination against people with disabilities
-- [🇺🇸 Section 508](https://www.section508.gov/) — amendment to the Workforce Rehabilitation Act federally mandating all tech developed, procured, maintained, or used by the federal government be accessible to persons with disabilities
-- [🇨🇦 AODA](https://www.ontario.ca/laws/regulation/110191) — Accessibility for Ontarians with Disabilities Act, enacted for the province to become “accessible for people with disabilities by 2025”
+* [🌐 WCAG 2.0](https://www.w3.org/TR/WCAG20/) — the W3C’s “Web Content Accessibility Guidelines” web standards specification
+* [🇺🇸 ADA](https://www.ada.gov/) — Americans with Disabilities Act prohibits discrimination against people with disabilities
+* [🇺🇸 Section 508](https://www.section508.gov/) — amendment to the Workforce Rehabilitation Act federally mandating all tech developed, procured, maintained, or used by the federal government be accessible to persons with disabilities
+* [🇨🇦 AODA](https://www.ontario.ca/laws/regulation/110191) — Accessibility for Ontarians with Disabilities Act, enacted for the province to become “accessible for people with disabilities by 2025”
 
 ### Testing tools and development references
-- [Accessible-email.org](http://www.accessible-email.org/) — browser-based semantic analysis to report a11y and usability issues errors in marketing emails
-- [Colors palettes & contrast testing tools](#colors) — listed in the "Colors" category 👇
-- [HTML5 Accessibility](http://www.html5accessibility.com/) — lists current accessibility support status of HTML5 features across major browsers
-- [pa11y](http://pa11y.org/) — automated accessibility testing on the command line for programmatic accessibility reporting
-- [tota11y](http://khan.github.io/tota11y/) — Khan Academy's jQuery-based semantic analysis that can be inserted into a page or run as a bookmarklet
+* [Accessible-email.org](http://www.accessible-email.org/) — browser-based semantic analysis to report a11y and usability issues errors in marketing emails
+* [Colors palettes & contrast testing tools](#colors) — listed in the "Colors" category 👇
+* [HTML5 Accessibility](http://www.html5accessibility.com/) — lists current accessibility support status of HTML5 features across major browsers
+* [pa11y](http://pa11y.org/) — automated accessibility testing on the command line for programmatic accessibility reporting
+* [tota11y](http://khan.github.io/tota11y/) — Khan Academy's jQuery-based semantic analysis that can be inserted into a page or run as a bookmarklet
 
 ### Further reading
-- [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
-- [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y) — a curated list of awesome accessibility tools, articles and resources on GitHub
+* [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
+* [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y) — a curated list of awesome accessibility tools, articles and resources on GitHub
 * *Books on accessibility* — listed in the “Books” category 👇
 
 
@@ -161,7 +161,7 @@
 ## Colors and color palettes
 * [clrs.cc](http://clrs.cc/) — really pretty default colors for prototyping
 * [Coolors](https://coolors.co/app) — interactive color palette generator
-- [Google Material design colors](https://material.io/color/#!/?view.left=1&view.right=0) — choose from all the hues in Google’s material design palette, see a tint and shade of each, and test against white & black text for accessibility
+* [Google Material design colors](https://material.io/color/#!/?view.left=1&view.right=0) — choose from all the hues in Google’s material design palette, see a tint and shade of each, and test against white & black text for accessibility
 * [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
 * [Paletteable](http://www.palettable.io/) — interactive color palette generator
 * [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
@@ -172,8 +172,8 @@
 
 #### Accessibility testing tools
 * [Color Oracle](http://colororacle.org/) — open source macOS color blindness simulator
-- [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS eye-dropper tool for text/bg accessibility testing, shows fail/AA Large/AA/AAA results
-- [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
+* [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS eye-dropper tool for text/bg accessibility testing, shows fail/AA Large/AA/AAA results
+* [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
 * [Hex Naw](https://hexnaw.com/) — input up to 12 hex codes to test entire color systems for accessible contrast
 * [Online contrast checker](http://webaim.org/resources/contrastchecker/): input text/bg hex codes for accessible contrast testing
 
@@ -220,7 +220,7 @@
 ## Icons and emoji
 * [EmojiOne](https://www.emojione.com/developers/) — [free & paid] — emoji set with free & premium licensing options available; downloadable as pngs, vectors, and font files
 * [Emojipedia](https://emojipedia.org/apple/) — [free] — every emoji, ever
-- [Google Material Design icons](https://material.io/icons/) — [free] — 900+ open source icons from Google’s gorgeous design language
+* [Google Material Design icons](https://material.io/icons/) — [free] — 900+ open source icons from Google’s gorgeous design language
 * [The Noun Project](https://thenounproject.com/) — [free & paid] — available for use with Creative Commons attribution or available to purchase without attribution for fair prices; best quality selection in one place
 * [SymbolSet](https://symbolset.com/) — [paid] — super high-quality icon fonts categorized by topic and style
 
@@ -228,53 +228,53 @@
 
 ## Inspiration and criticism websites
 #### Brand identity
-- [BP & O](http://bpando.org) — killer packaging and brand design gallery
-- [Brand New](http://www.underconsideration.com/brandnew) — brand identity case studies
-- [Shipcom](http://shipcom.tumblr.com) — collection of shipping, manufacturing, transport, and logistics logos
+* [BP & O](http://bpando.org) — killer packaging and brand design gallery
+* [Brand New](http://www.underconsideration.com/brandnew) — brand identity case studies
+* [Shipcom](http://shipcom.tumblr.com) — collection of shipping, manufacturing, transport, and logistics logos
 
 #### Illustration and art
-- [Boooooooom](http://www.booooooom.com) — art, illustration, design, photography interviews and features
-- [Jacky Winter](http://www.jackywinter.com/all-artists) — illustration collective
+* [Boooooooom](http://www.booooooom.com) — art, illustration, design, photography interviews and features
+* [Jacky Winter](http://www.jackywinter.com/all-artists) — illustration collective
 
 #### Motion
-- [Wine After Coffee](https://vimeo.com/channels/wineaftercoffee) — curated channel of the best motion graphics, animation, and video
+* [Wine After Coffee](https://vimeo.com/channels/wineaftercoffee) — curated channel of the best motion graphics, animation, and video
 
 #### Print, layout, packaging, art direction
-- [Art of the Menu](http://www.underconsideration.com/artofthemenu) — restaurant-specific print menu design case studies
-- [Designspiration](http://designspiration.net) — photography, print design, cool stuff gallery, Pinterest style
-- [FPO](http://www.underconsideration.com/fpo) — print design case studies
-- [Grafik](https://www.grafik.net) — cutting-edge and old school fringe aesthetic case studies
-- [It’s Nice That](http://www.itsnicethat.com) — creative inspiration worldwide
-- [Mind Sparkle Mag](http://mindsparklemag.com) — print, brand, interior, industrial design features
-- [Trendlist](http://www.trendlist.org) — graphic design trends for the designer’s designer
+* [Art of the Menu](http://www.underconsideration.com/artofthemenu) — restaurant-specific print menu design case studies
+* [Designspiration](http://designspiration.net) — photography, print design, cool stuff gallery, Pinterest style
+* [FPO](http://www.underconsideration.com/fpo) — print design case studies
+* [Grafik](https://www.grafik.net) — cutting-edge and old school fringe aesthetic case studies
+* [It’s Nice That](http://www.itsnicethat.com) — creative inspiration worldwide
+* [Mind Sparkle Mag](http://mindsparklemag.com) — print, brand, interior, industrial design features
+* [Trendlist](http://www.trendlist.org) — graphic design trends for the designer’s designer
 
 #### Typography
-- [Alphabettes](http://www.alphabettes.org) — commentary, research, and work showcases by women in type design
-- [Fonts In Use](https://fontsinuse.com) — identifying type in print in real life
-- [Typographica](http://typographica.org) — reviews and commentary on type books and typefaces
-- [Type Wolf](https://www.typewolf.com) — basically Fonts In Use online
+* [Alphabettes](http://www.alphabettes.org) — commentary, research, and work showcases by women in type design
+* [Fonts In Use](https://fontsinuse.com) — identifying type in print in real life
+* [Typographica](http://typographica.org) — reviews and commentary on type books and typefaces
+* [Type Wolf](https://www.typewolf.com) — basically Fonts In Use online
 
 
 #### Web, mobile, product
 
 ###### UX patterns and components
-- [Capptivate](http://capptivate.co) — mobile design patterns and components in video form
-- [Collect UI](http://collectui.com) — UI design components gallery populated from Dribbble posts
-- [Empty Stat.es](http://emptystat.es) — empty state designs
-- [Little Big Details](http://littlebigdetails.com) — delightful, thoughtful UX components that make a big difference
-- [PTTRNS](http://pttrns.com) — mobile design patterns and components
-- [Pattern Tap](http://zurb.com/patterntap) — website components gallery
-- [UI Movement](https://uimovement.com/) — UI design components gallery and newsletter, largely culled from Dribbble
-- [Unmatched Style](http://unmatchedstyle.com) — website design and interactive components gallery
+* [Capptivate](http://capptivate.co) — mobile design patterns and components in video form
+* [Collect UI](http://collectui.com) — UI design components gallery populated from Dribbble posts
+* [Empty Stat.es](http://emptystat.es) — empty state designs
+* [Little Big Details](http://littlebigdetails.com) — delightful, thoughtful UX components that make a big difference
+* [PTTRNS](http://pttrns.com) — mobile design patterns and components
+* [Pattern Tap](http://zurb.com/patterntap) — website components gallery
+* [UI Movement](https://uimovement.com/) — UI design components gallery and newsletter, largely culled from Dribbble
+* [Unmatched Style](http://unmatchedstyle.com) — website design and interactive components gallery
 
 ###### Visual design
-- [Admire The Web](https://www.admiretheweb.com) — website design gallery
-- [HTTPSTER](http://httpster.net) — website design gallery
-- [One Page Love](https://onepagelove.com) — one-page website design gallery
-- [Really Good Emails](http://reallygoodemails.com) — email design gallery
-- [Siteinspire](http://siteinspire.com) — website design gallery
-- [Site See](https://sitesee.co) — website design gallery
-- [Web Creme](http://www.webcreme.com) — website design gallery
+* [Admire The Web](https://www.admiretheweb.com) — website design gallery
+* [HTTPSTER](http://httpster.net) — website design gallery
+* [One Page Love](https://onepagelove.com) — one-page website design gallery
+* [Really Good Emails](http://reallygoodemails.com) — email design gallery
+* [Siteinspire](http://siteinspire.com) — website design gallery
+* [Site See](https://sitesee.co) — website design gallery
+* [Web Creme](http://www.webcreme.com) — website design gallery
 
 
 
