@@ -8,7 +8,7 @@ layout: post
 - [Google Material design colors](https://material.io/color/#!/?view.left=1&view.right=0) — choose from all the hues in Google’s material design palette, see a tint and shade of each, and test against white & black text for accessibility
 - [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
 - [Paletteable](http://www.palettable.io/) — interactive color palette generator
-- [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
+- [Sip](http://sipapp.io/) — [paid] — pretty macOS and iOS colorpicker app, allows you to save custom palettes
 - [Wikipedia’s category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates) — if you wanna nerd out
 
 ## Accessible color palettes
@@ -19,4 +19,4 @@ layout: post
 - [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS eye-dropper tool for text/bg accessibility testing, shows fail/AA Large/AA/AAA results
 - [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
 - [Hex Naw](https://hexnaw.com/) — input up to 12 hex codes to test entire color systems for accessible contrast
-- [Online contrast checker](http://webaim.org/resources/contrastchecker/): input text/bg hex codes for accessible contrast testing
+- [Online contrast checker](http://webaim.org/resources/contrastchecker/) — input text/bg hex codes for accessible contrast testing

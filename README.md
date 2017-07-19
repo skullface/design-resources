@@ -153,7 +153,7 @@
 ## Brushes
 * [Kyle T. Webster](https://www.kylebrush.com/) — best Photoshop brushes for drawing and adding small texture (though they are not of much use without a pressure-sensitive tablet)
 * [RetroSupply](http://www.retrosupply.co/collections/brushes) — Photoshop and Illustrator brushes for multiple uses, including adding large (2000px) texture. recommended packs: Standard Issue Brush & Texture Bundle, Standard Issue Subtle Brush Kit, VectorFuzz
-* [Shauna Parmesan’s “Hand Lettering Toolbox”](https://www.retrosupply.co/products/the-hand-lettering-toolbox?variant=22157366791) — Photoshop brushes made exclusively for digital lettering
+- [Shauna Lynn Panczyszyn’s "Hand Lettering Toolbox"](https://www.retrosupply.co/products/the-hand-lettering-toolbox?variant=22157366791) — Photoshop brushes made exclusively for digital lettering
 * [Syd Weiler](https://patreon.com/sydweiler) — gorgeous Photoshop brushes, niched mostly toward organic shapes and textures
 
 
@@ -175,7 +175,7 @@
 * [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS eye-dropper tool for text/bg accessibility testing, shows fail/AA Large/AA/AAA results
 * [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
 * [Hex Naw](https://hexnaw.com/) — input up to 12 hex codes to test entire color systems for accessible contrast
-* [Online contrast checker](http://webaim.org/resources/contrastchecker/): input text/bg hex codes for accessible contrast testing
+* [Online contrast checker](http://webaim.org/resources/contrastchecker/) — input text/bg hex codes for accessible contrast testing
 
 
 
