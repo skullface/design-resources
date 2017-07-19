@@ -161,6 +161,7 @@
 ## Colors and color palettes
 * [clrs.cc](http://clrs.cc/) — really pretty default colors for prototyping
 * [Coolors](https://coolors.co/app) — interactive color palette generator
+- [Google Material design colors](https://material.io/color/#!/?view.left=1&view.right=0) — choose from all the hues in Google’s material design palette, see a tint and shade of each, and test against white & black text for accessibility
 * [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
 * [Paletteable](http://www.palettable.io/) — interactive color palette generator
 * [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
@@ -219,6 +220,7 @@
 ## Icons and emoji
 * [EmojiOne](https://www.emojione.com/developers/) — [free & paid] — emoji set with free & premium licensing options available; downloadable as pngs, vectors, and font files
 * [Emojipedia](https://emojipedia.org/apple/) — [free] — every emoji, ever
+- [Google Material Design icons](https://material.io/icons/) — [free] — 900+ open source icons from Google’s gorgeous design language
 * [The Noun Project](https://thenounproject.com/) — [free & paid] — available for use with Creative Commons attribution or available to purchase without attribution for fair prices; best quality selection in one place
 * [SymbolSet](https://symbolset.com/) — [paid] — super high-quality icon fonts categorized by topic and style
 
@@ -266,6 +268,7 @@
 - [Unmatched Style](http://unmatchedstyle.com) — website design and interactive components gallery
 
 ###### Visual design
+- [Admire The Web](https://www.admiretheweb.com) — website design gallery
 - [HTTPSTER](http://httpster.net) — website design gallery
 - [One Page Love](https://onepagelove.com) — one-page website design gallery
 - [Really Good Emails](http://reallygoodemails.com) — email design gallery
