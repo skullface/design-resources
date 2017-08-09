@@ -20,3 +20,4 @@ layout: post
 - [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
 - [Hex Naw](https://hexnaw.com/) — input up to 12 hex codes to test entire color systems for accessible contrast
 - [Online contrast checker](http://webaim.org/resources/contrastchecker/) — input text/bg hex codes for accessible contrast testing
+- [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en) — Google Chrome extension to instantly test web pages for different types of color vision deficiency
