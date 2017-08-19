@@ -16,10 +16,12 @@ layout: post
 ### Independent practice, consulting, freelancing
 - [*Design Is a Job* by Mike Monteiro](https://www.goodreads.com/book/show/13574985-design-is-a-job), 2012 — no bullshit lessons on selling yourself and working with others
 - [*Pricing Design* by Dan Mall](https://www.goodreads.com/book/show/28511400-pricing-design), 2016 —  brief and invaluable reference on value-based pricing
+- [*Creative Strategy and the Business of Design* by Douglas Davis](http://amzn.to/2dHjsAR), 2016 - In-depth guide to the business side of design, advertising, creative fields which teaches us how to "think how they think."
 
 ### Process and mindset
 - [*The Artist's Way* by Julia Cameron](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), 1992 – classic international bestseller on the creative process
 - [*The Shape of Design* by Frank Chimero](http://shapeofdesignbook.com/), 2012 — sometimes insightful, sometimes insufferable; a rumination on making things for other people
+- [*Building Brands* by Prescott Perez-Fox](http://busycreator.com/buildingbrands), 2016 - A Step-By-Step Guide for Creative Pros to Develop Strategy and Design Identity
 
 ### User experience and interaction design
 - [*Microinteractions: Designing with Details* by Dan Saffer](https://www.goodreads.com/book/show/17239285-microinteractions), 2013 — straight-forward examples on the small details that exist inside & around a product's features
