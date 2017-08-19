@@ -20,9 +20,13 @@ layout: post
 ### Process and mindset
 - [*The Artist's Way* by Julia Cameron](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), 1992 – classic international bestseller on the creative process
 - [*The Shape of Design* by Frank Chimero](http://shapeofdesignbook.com/), 2012 — sometimes insightful, sometimes insufferable; a rumination on making things for other people
+- [*Sprint* by Jake Knapp &amp; more](https://www.goodreads.com/book/show/25814544-sprint), 2016 — a balanced book of details, examples, checklists, and scripts to perform your own famed Google Ventures design sprint
 
 ### User experience and interaction design
 - [*Microinteractions: Designing with Details* by Dan Saffer](https://www.goodreads.com/book/show/17239285-microinteractions), 2013 — straight-forward examples on the small details that exist inside & around a product's features
+
+### User research
+- [*Just Enough Research* by Erika Hall](https://www.goodreads.com/book/show/17236175-just-enough-research), 2013 — breaks down the huge topic of design research in a digestible, approachable, organized, and humorous way
 
 ## Publishers and distributors
 - [A Book Apart](https://abookapart.com) — top of the class brief books for people who make websites
@@ -30,5 +34,5 @@ layout: post
 - [Draw Down](https://draw-down.com/) — large catalog of small-press books and zines on graphic design, culture, criticism, art, and more
 - [Gestalten](http://usshop.gestalten.com/) — high-quality books on graphic design, art, and culture
 - [MIT Press](https://mitpress.mit.edu/) — hundreds of new books published yearly from leading researchers on technology, art, and science
-- [Rosenfeld Media](http://rosenfeldmedia.com/) – User experience books, training, workshops, seminars, and experts
+- [Rosenfeld Media](http://rosenfeldmedia.com/) – user experience books, training, workshops, seminars, and experts
 - [Smashing Magazine](https://www.smashingmagazine.com/books) — affordable, practical books from digital design practitioners
