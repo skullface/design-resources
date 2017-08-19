@@ -31,4 +31,4 @@ layout: post
 - [Gestalten](http://usshop.gestalten.com/) — high-quality books on graphic design, art, and culture
 - [MIT Press](https://mitpress.mit.edu/) — hundreds of new books published yearly from leading researchers on technology, art, and science
 - [Rosenfeld Media](http://rosenfeldmedia.com/) – User experience books, training, workshops, seminars, and experts
-- [Smashing Magazine Books](https://www.smashingmagazine.com/books/?_ga=2.19291512.1932523253.1502325778-1704321744.1502325778) and [Smashing Magazine e-Books](https://shop.smashingmagazine.com/products/the-smashing-library?_ga=2.124145866.1932523253.1502325778-1704321744.1502325778) – the Smashing library is a collection of publications on Design, Mobile, Graphics, UX Design, and more
+- [Smashing Magazine](https://www.smashingmagazine.com/books) — affordable, practical books from digital design practitioners
