@@ -256,9 +256,9 @@
 
 #### Typography
 * [Alphabettes](http://www.alphabettes.org) — commentary, research, and work showcases by women in type design
-* [Fonts In Use](https://fontsinuse.com) — identifying type in print in real life
+* [Fonts In Use](https://fontsinuse.com) — highest quality public archive of typography indexed by typeface, format, and industry
 * [Typographica](http://typographica.org) — reviews and commentary on type books and typefaces
-* [Type Wolf](https://www.typewolf.com) — basically Fonts In Use online
+* [Type Wolf](https://www.typewolf.com) — curated examples of typography on the web with premium guides and resources
 
 
 #### Web, mobile, product
