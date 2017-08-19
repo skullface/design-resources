@@ -15,7 +15,7 @@ layout: post
 
 ### Independent practice, consulting, freelancing
 - [*Design Is a Job* by Mike Monteiro](https://www.goodreads.com/book/show/13574985-design-is-a-job), 2012 — no bullshit lessons on selling yourself and working with others
-- [*Pricing Design* by Dan Mall](https://www.goodreads.com/book/show/28511400-pricing-design), 2016 —  brief and invaluable reference on value-based pricing
+- [*Pricing Design* by Dan Mall](https://www.goodreads.com/book/show/28511400-pricing-design), 2016 — brief and invaluable reference on value-based pricing
 
 ### Process and mindset
 - [*The Artist's Way* by Julia Cameron](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), 1992 – classic international bestseller on the creative process
@@ -31,3 +31,4 @@ layout: post
 - [Gestalten](http://usshop.gestalten.com/) — high-quality books on graphic design, art, and culture
 - [MIT Press](https://mitpress.mit.edu/) — hundreds of new books published yearly from leading researchers on technology, art, and science
 - [Rosenfeld Media](http://rosenfeldmedia.com/) – User experience books, training, workshops, seminars, and experts
+- [Smashing Magazine](https://www.smashingmagazine.com/books) — affordable, practical books from digital design practitioners
