@@ -6,7 +6,7 @@ GEM
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
-    jekyll (3.5.0)
+    jekyll (3.5.2)
       addressable (~> 2.4)
       colorator (~> 1.0)
       jekyll-sass-converter (~> 1.0)
@@ -37,7 +37,11 @@ GEM
       ffi (>= 0.5.0, < 2)
     rouge (1.11.1)
     safe_yaml (1.0.4)
-    sass (3.4.24)
+    sass (3.5.1)
+      sass-listen (~> 4.0.0)
+    sass-listen (4.0.0)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
 
 PLATFORMS
   ruby
