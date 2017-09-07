@@ -49,10 +49,11 @@ layout: post
 - [Unmatched Style](http://unmatchedstyle.com) — website design and interactive components gallery
 
 ### Visual design
-- [Admire The Web](https://www.admiretheweb.com) — website design gallery
-- [HTTPSTER](http://httpster.net) — website design gallery
-- [One Page Love](https://onepagelove.com) — one-page website design gallery
+- [HTTPSTER](http://httpster.net) — website design gallery. sort by category and style
+- [Lapa](https://www.lapa.ninja/) — website design gallery. sort by category and color
+- [One Page Love](https://onepagelove.com) — website design gallery featuring only one-page websites
+- [Pages.xyz](http://www.pages.xyz/) — website design gallery for digital product marketing and ecommerce sites
 - [Really Good Emails](http://reallygoodemails.com) — email design gallery
-- [Siteinspire](http://siteinspire.com) — website design gallery
-- [Site See](https://sitesee.co) — website design gallery
-- [Web Creme](http://www.webcreme.com) — website design gallery
+- [Siteinspire](http://siteinspire.com) — website design gallery with the tightest curation. sort by category, style, subject, or CMS. includes starred favorites
+- [Site See](https://sitesee.co) — website design gallery. sort by category and color. includes custom curated collections
+- [Web Creme](http://www.webcreme.com) — website design gallery, updated sporadically, online since 2005(!)
