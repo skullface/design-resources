@@ -47,6 +47,7 @@ layout: post
 - [Pattern Tap](http://zurb.com/patterntap) — website components gallery
 - [UI Movement](https://uimovement.com/) — UI design components gallery and newsletter, largely culled from Dribbble
 - [Unmatched Style](http://unmatchedstyle.com) — website design and interactive components gallery
+- [Style Guide Driven Development](http://www.styleguidedrivendevelopment.com/) - free tutorials to bridge the gap between design and development
 
 ### Visual design
 - [HTTPSTER](http://httpster.net) — website design gallery. sort by category and style
