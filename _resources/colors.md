@@ -10,6 +10,7 @@ layout: post
 - [Paletteable](http://www.palettable.io/) — interactive color palette generator
 - [Sip](http://sipapp.io/) — [paid] — pretty macOS and iOS colorpicker app, allows you to save custom palettes
 - [Wikipedia’s category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates) — if you wanna nerd out
+- [Encycolorpedia paint &amp; hex colors](https://encycolorpedia.com/) — search paint, brand &amp; name colors and view detailed color profile pages
 
 ## Accessible color palettes
 - [Randoma11y](https://randoma11y.com/) — accessibility-friendly random color generator for text &amp; background combinations
