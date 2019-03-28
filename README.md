@@ -340,7 +340,10 @@
 * [Masterfile](http://masterfile.com) — [paid] — stock photos, a little higher quality than iStock. registered account includes unwatermarked hi-res comps
 * [Stocksy](http://stocksy.com) — [paid] — high quality, stylish lifestyle paid stock photos (watermarked comps)
 * [Unsplash](https://unsplash.com/) — [free] — the first of the hip and gorgeous free with no strings attached stock photo sites
+* [Kaboompics](https://kaboompics.com/) — [free] — photos taken by Karolina Grabowska, no attribution required (no redistribution allowed)
 * [Women of Color in Tech](https://www.flickr.com/photos/wocintechchat/albums) — [free] — photos of women in color in tech settings since every other stock photo site fails at this hardcore
+* [Natural Women Collection](https://www.canva.com/photos/natural-women/) — [free] — unretouched photos of diverse women in realistic settings
+
 
 
 
