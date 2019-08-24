@@ -6,6 +6,7 @@ layout: post
 - [clrs.cc](http://clrs.cc/) — really pretty default colors for prototyping
 - [Coolors](https://coolors.co/app) — interactive color palette generator
 - [Google Material design colors](https://material.io/color/#!/?view.left=1&view.right=0) — choose from all the hues in Google’s material design palette, see a tint and shade of each, and test against white & black text for accessibility
+- [Image Color Picker](https://image-color.com) — image color picker
 - [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
 - [Paletteable](http://www.palettable.io/) — interactive color palette generator
 - [Sip](http://sipapp.io/) — [paid] — pretty macOS and iOS colorpicker app, allows you to save custom palettes
