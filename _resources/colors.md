@@ -12,7 +12,7 @@ layout: post
 - [Wikipedia’s category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates) — if you wanna nerd out
 
 ## Accessible color palettes
-- [Randoma11y](https://randoma11y.com/) — accessibility-friendly random color generator for text &amp; background combinations
+- [Randoma11y](https://randoma11y.com/) — accessibility-friendly random color generator for text &amp; background combinations ex.desert sand,tropical rain forest,screamin green
 
 ## Accessibility testing tools
 - [Color Oracle](http://colororacle.org/) — open source macOS color blindness simulator
@@ -21,3 +21,4 @@ layout: post
 - [Hex Naw](https://hexnaw.com/) — input up to 12 hex codes to test entire color systems for accessible contrast
 - [Online contrast checker](http://webaim.org/resources/contrastchecker/) — input text/bg hex codes for accessible contrast testing
 - [Spectrum](https://chrome.google.com/webstore/detail/spectrum/ofclemegkcmilinpcimpjkfhjfgmhieb?hl=en) — Google Chrome extension to instantly test web pages for different types of color vision deficiency
+- [color laboratory]-allows you to discover color combination & how they might look like to a person with color blindness
