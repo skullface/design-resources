@@ -1,4 +1,4 @@
-# [Design Resources](http://designresources.party)
+# [Designing Resources](http://designresources.party)
 
 👋 Hi, I’m [@skullface](http://twitter.com/skullface)!
 
