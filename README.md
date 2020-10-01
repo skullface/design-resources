@@ -1,12 +1,12 @@
-# [Design Resources](http://designresources.party)
+## [Design Resources](http://designresources.party)
 
 👋 Hi, I’m [@skullface](http://twitter.com/skullface)!
 
-✨ I used to keep this info as a Google Doc to share with my most trusted coworkers and friends, but I thought the info would be better served in the open.
+✨ I used to keep this info as a Google Doc to share with my most trusted ally and friends, but I thought the info would be better served in the open.
 
 ⭐️ These lists and the contents within reflect _my_ opinions. I’m aiming for quality over quantity — only resources I would recommend. Suggestions, issues, and PRs are welcome 💖, but just because a resource exists doesn’t necessarily mean I’d recommend it.
 
-💫 [Website content](http://designresources.party) reproduced in full below!
+💫 [Website content](http://designresources.party) mimograph in full below!
 
 ---
 
@@ -62,19 +62,19 @@
 ---
 
 ## Accessibility resources
-### Checklists
+## Checklists
 * [18F Accessibility Guide Checklist](https://accessibility.18f.gov/checklist/) — WCAG 2.0 compliance checklist for developers, driven by priority
 * [HHS.gov’s checklist for creating accessible PDFs](https://www.hhs.gov/web/section-508/making-files-accessible/pdf-required/index.html) — designing accessibly for artifacts that aren't apps or websites is important, too!
 * [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) — best practices for designers, engineers, PMs, QA, and editorial staff (with sources to read more; great to send to coworkers on different teams)
 
-### Guidelines
+## Guidelines
 * [18F Accessibility Guide](https://accessibility.18f.gov/) — hub of accessibility resources and principles by government office 18F
 * [Empathy Prompts](https://empathyprompts.net/) — open source list of considerations & challenges to help build empathy
 * [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html#accessibility-principles) — practices for color, sound, motion, layout, copy, hierarchy, focus, and implementation
 * [Inclusive Design Principles](http://inclusivedesignprinciples.org/) — seven clear principles to follow to put people first, by leading experts The Paciello Group
 * [Microsoft Inclusive Design Principles](https://www.microsoft.com/en-us/design/inclusive) — Microsoft's guidelines for designing accessible and inclusive experiences, including a detailed manual (.pdf) with awesome visualizations, and activity cards for considerations & challenges while brainstorming
 
-### Industry leaders, educators, and consultants
+## Industry leaders, educators, and consultants
 * [Deque](https://www.deque.com/)
 * [Karl Groves](http://www.karlgroves.com/)
 * [Knowability](https://www.knowbility.org/)
@@ -84,28 +84,28 @@
 * [Simply Accessible](http://simplyaccessible.com/)
 * [WebAIM](http://webaim.org/resources/designers/)
 
-### Online courses
+## Online courses
 * [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
 * [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
 
-### Pattern/component libraries
+## Pattern/component libraries
 * [A11y Style Guide](http://a11y-style-guide.com/style-guide/)
 * [eBay MIND Patterns](https://ianmcburnie.github.io/mindpatterns/index.html)
 
-### Requirements and standards
+## Requirements and standards
 * [🌐 WCAG 2.0](https://www.w3.org/TR/WCAG20/) — the W3C’s “Web Content Accessibility Guidelines” web standards specification
 * [🇺🇸 ADA](https://www.ada.gov/) — Americans with Disabilities Act prohibits discrimination against people with disabilities
 * [🇺🇸 Section 508](https://www.section508.gov/) — amendment to the Workforce Rehabilitation Act federally mandating all tech developed, procured, maintained, or used by the federal government be accessible to persons with disabilities
 * [🇨🇦 AODA](https://www.ontario.ca/laws/regulation/110191) — Accessibility for Ontarians with Disabilities Act, enacted for the province to become “accessible for people with disabilities by 2025”
 
-### Testing tools and development references
+## Testing tools and development references
 * [Accessible-email.org](http://www.accessible-email.org/) — browser-based semantic analysis to report a11y and usability issues errors in marketing emails
 * [Colors palettes & contrast testing tools](#colors) — listed in the "Colors" category 👇
 * [HTML5 Accessibility](http://www.html5accessibility.com/) — lists current accessibility support status of HTML5 features across major browsers
 * [pa11y](http://pa11y.org/) — automated accessibility testing on the command line for programmatic accessibility reporting
 * [tota11y](http://khan.github.io/tota11y/) — Khan Academy's jQuery-based semantic analysis that can be inserted into a page or run as a bookmarklet
 
-### Further reading
+## Further reading
 * [Accessibility Wins](https://a11ywins.tumblr.com/) — single-serving Tumblr showcasing small victories in accessible web design and development
 * [Awesome Accessibility](https://github.com/brunopulis/awesome-a11y) — a curated list of awesome accessibility tools, articles and resources on GitHub
 * *Books on accessibility* — listed in the “Books” category 👇
@@ -113,30 +113,30 @@
 
 
 ## Books and zines
-#### Individual publications
-###### Accessibility
+## Individual publications
+## Accessibility
 * [_A Web for Everyone_ by Sarah Horton & Whitney Quesenbery](http://rosenfeldmedia.com/books/a-web-for-everyone/), 2014 — practical advice and examples to build accessible web products without sacrificing design or innovation
 * [_Inclusive Design Patterns — Coding Accessibility Into Web Design_ by Heydon Pickering](https://www.smashingmagazine.com/inclusive-design-patterns/), 2016 — real-world techniques and strategies to build and prototype accessible interfaces
 
-###### History
+## History
 * [_Megg’s History of Graphic Design_ by Philip B. Meggs](https://www.goodreads.com/book/show/641593.Meggs_History_of_Graphic_Design?ac=1&from_search=true), 1983 — the unrivaled college textbook authority on the history of graphic design, mostly in America and Europe
 
 ###### Independent practice, consulting, freelancing
 * [_Design Is a Job_ by Mike Monteiro](https://www.goodreads.com/book/show/13574985-design-is-a-job), 2012 — no bullshit lessons on selling yourself and working with others
 * [_Pricing Design_ by Dan Mall](https://www.goodreads.com/book/show/28511400-pricing-design), 2016 — brief and invaluable reference on value-based pricing
 
-###### Process and mindset
+## Process and mindset
 * [_The Artist’s Way_ by Julia Cameron](https://www.goodreads.com/book/show/615570.The_Artist_s_Way), 1992 – classic international bestseller on the creative process
 * [_The Shape of Design_ by Frank Chimero](http://shapeofdesignbook.com/), 2012 — sometimes insightful, sometimes insufferable; a rumination on making things for other people
 * [*Sprint* by Jake Knapp &amp; more](https://www.goodreads.com/book/show/25814544-sprint), 2016 — a balanced book of details, examples, checklists, and scripts to perform your own famed Google Ventures design sprint
 
-###### User experience and interaction design
+## User experience and interaction design
 * [_Microinteractions: Designing with Details_ by Dan Saffer](https://www.goodreads.com/book/show/17239285-microinteractions), 2013 — straight-forward examples on the small details that exist inside & around a product’s features
 
-##### User research
+## User research
 * [*Just Enough Research* by Erika Hall](https://www.goodreads.com/book/show/17236175-just-enough-research), 2013 — breaks down the huge topic of design research in a digestible, approachable, organized, and humorous way
 
-#### Publishers and distributors
+## Publishers and distributors
 * [A Book Apart](https://abookapart.com) — top of the class brief books for people who make websites
 * [Chronicle Books](https://chroniclebooks.com) — innovative and design-y adult and children’s books, based in San Francisco
 * [Draw Down](https://draw-down.com/) — large catalog of small-press books and zines on graphic design, culture, criticism, art, and more
@@ -148,12 +148,12 @@
 
 
 ## Browser features
-#### Google Chrome extensions and bookmarklets
+## Google Chrome extensions and bookmarklets
 * [Tachyons X-ray](http://tachyons.io/xray/) — debug & align objects to an 8 or 16px grid
 * [Type Sample](http://www.typesample.com/) — identify and sample webfonts — 3 samples for free, or unlimited samples for $5/year subscription. available as a bookmarklet or Chrome extension
 * [WhatFont?](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=en) — inspect a webfont’s name, family, weight, size, style, color, line height, and source (if hosted via Google Fonts or Typekit)
 
-#### Google Chrome DevTools
+## Google Chrome DevTools
 * [Animation timeline & editing](https://developers.google.com/web/tools/chrome-devtools/inspect-styles/animations) — powerful tools to inspect and modify CSS animations
 * [Device Mode](https://developers.google.com/web/tools/chrome-devtools/device-mode/emulate-mobile-viewports) — test responsiveness by using popular viewport sizes or creating your own presets
 * [Full-page screenshot](https://developers.google.com/web/updates/2017/04/devtools-release-notes##screenshots) — it’s inside the Device Mode — no additional browser extension required!
@@ -178,10 +178,10 @@
 * [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
 * [Wikipedia’s category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates) — if you wanna nerd out
 
-#### Accessible color palettes
+## Accessible color palettes
 * [Randoma11y](https://randoma11y.com/) — accessibility-friendly random color generator for text & background combinations
 
-#### Accessibility testing tools
+## Accessibility testing tools
 * [Color Oracle](http://colororacle.org/) — open source macOS color blindness simulator
 * [Contrast Analyzer](https://www.paciellogroup.com/resources/contrastanalyser/) — open source macOS eye-dropper tool for text/bg accessibility testing, shows fail/AA Large/AA/AAA results
 * [Contrast](https://usecontrast.com/) — [paid] — minimal & gorgeous macOS menubar eye-dropper tool, shows fail/AA Large/AA/AAA results
@@ -192,14 +192,14 @@
 
 
 ## Fonts
-#### Directories and marketplaces
+## Directories and marketplaces
 * [Google Fonts](https://fonts.google.com/) — hundreds of free webfonts hosted via Google or self-hosted, downloadable via [GitHub repo](https://github.com/google/fonts) with individual licenses
 * [MyFonts](http://myfonts.com) — thousands of fonts from all kinds of foundries, includes some trial fonts & free families. (good for searching and testing, but it’s better to buy through the foundries themselves!)
 * [TypeKit](https://typekit.com/) — included with Adobe CC subscription, some fonts & families are only available for desktop _or_ web use. larger selection available for individual purchase through Typekit Marketplace
 * [Type Network](http://www.typenetwork.com/) — incredibly high-quality fonts by select independent foundries
 * [YouWorkForThem](https://www.youworkforthem.com/fonts/) — thousands of fonts in the “original creative marketplace”
 
-#### Individual foundries
+## Individual foundries
 * [A2 Type](http://www.a2-type.co.uk/)
 * [Avondale Type Co.](https://avondaletypeco.com/)
 * [Beta Type](http://betatype.com/)
@@ -240,19 +240,19 @@
 
 
 ## Inspiration and criticism websites
-#### Brand identity
+## Brand identity
 * [BP & O](http://bpando.org) — killer packaging and brand design gallery
 * [Brand New](http://www.underconsideration.com/brandnew) — brand identity case studies
 * [Shipcom](http://shipcom.tumblr.com) — collection of shipping, manufacturing, transport, and logistics logos
 
-#### Illustration and art
+## Illustration and art
 * [Boooooooom](http://www.booooooom.com) — art, illustration, design, photography interviews and features
 * [Jacky Winter](http://www.jackywinter.com/all-artists) — illustration collective
 
-#### Motion
+## Motion
 * [Wine After Coffee](https://vimeo.com/channels/wineaftercoffee) — curated channel of the best motion graphics, animation, and video
 
-#### Print, layout, packaging, art direction
+## Print, layout, packaging, art direction
 * [Art of the Menu](http://www.underconsideration.com/artofthemenu) — restaurant-specific print menu design case studies
 * [Designspiration](http://designspiration.net) — photography, print design, cool stuff gallery, Pinterest style
 * [FPO](http://www.underconsideration.com/fpo) — print design case studies
@@ -261,16 +261,16 @@
 * [Mind Sparkle Mag](http://mindsparklemag.com) — print, brand, interior, industrial design features
 * [Trendlist](http://www.trendlist.org) — graphic design trends for the designer’s designer
 
-#### Typography
+## Typography
 * [Alphabettes](http://www.alphabettes.org) — commentary, research, and work showcases by women in type design
 * [Fonts In Use](https://fontsinuse.com) — highest quality public archive of typography indexed by typeface, format, and industry
 * [Typographica](http://typographica.org) — reviews and commentary on type books and typefaces
 * [Type Wolf](https://www.typewolf.com) — curated examples of typography on the web with premium guides and resources
 
 
-#### Web, mobile, product
+## Web, mobile, product
 
-###### UX patterns and components
+## UX patterns and components
 * [Capptivate](http://capptivate.co) — mobile design patterns and components in video form
 * [Collect UI](http://collectui.com) — UI design components gallery populated from Dribbble posts
 * [Empty Stat.es](http://emptystat.es) — empty state designs
@@ -280,7 +280,7 @@
 * [UI Movement](https://uimovement.com/) — UI design components gallery and newsletter, largely culled from Dribbble
 * [Unmatched Style](http://unmatchedstyle.com) — website design and interactive components gallery
 
-###### Visual design
+## Visual design
 * [HTTPSTER](http://httpster.net) — website design gallery. sort by category and style
 * [Lapa](https://www.lapa.ninja/) — website design gallery. sort by category and color
 * [One Page Love](https://onepagelove.com) — website design gallery featuring only one-page websites
@@ -292,14 +292,14 @@
 
 
 
-### macOS apps
-#### Development
+## macOS apps
+## Development
 * [Dash](https://kapeli.com/dash) — [paid] — instant offline access to 150+ API documentation sets.
 
-#### Font management
+## Font management
 * [RightFont](http://rightfont.com/) — [paid] — preview, sync, install, and manage fonts on your Mac or Dropbox/Google Drive
 
-#### Menubar apps
+## Menubar apps
 * [LittleIpsum](http://dustinsenos.com/littleIpsum) — [free] — sgenerate lorem ipsum lightning fast (can automatically wrap in `p` tags, too)
 * [LICEcap](https://www.cockos.com/licecap/) — [free] — weirdest name, most straightforward and lightweight way to capture parts of your screen as a gif (also available for Windows)
 
