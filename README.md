@@ -1,4 +1,4 @@
-# [Design Resources](http://designresources.party)
+# [Design Resources-](http://designresources.party)
 
 👋 Hi, I’m [@skullface](http://twitter.com/skullface)!
 
@@ -10,7 +10,7 @@
 
 ---
 
-## Table of contents
+## Amazing Table of contents
 * [Accessibility resources](#accessibility-resources)
   * [Checklists](#checklists)
   * [Guidelines](#guidelines)
@@ -67,7 +67,7 @@
 * [HHS.gov’s checklist for creating accessible PDFs](https://www.hhs.gov/web/section-508/making-files-accessible/pdf-required/index.html) — designing accessibly for artifacts that aren't apps or websites is important, too!
 * [Vox Media Accessibility Guidelines Checklist](http://accessibility.voxmedia.com/) — best practices for designers, engineers, PMs, QA, and editorial staff (with sources to read more; great to send to coworkers on different teams)
 
-### Guidelines
+### Our Guidelines
 * [18F Accessibility Guide](https://accessibility.18f.gov/) — hub of accessibility resources and principles by government office 18F
 * [Empathy Prompts](https://empathyprompts.net/) — open source list of considerations & challenges to help build empathy
 * [Google Material Design Accessibility Principles](https://material.io/guidelines/usability/accessibility.html#accessibility-principles) — practices for color, sound, motion, layout, copy, hierarchy, focus, and implementation
@@ -84,7 +84,7 @@
 * [Simply Accessible](http://simplyaccessible.com/)
 * [WebAIM](http://webaim.org/resources/designers/)
 
-### Online courses
+### Best Online courses
 * [Pluralsight “Meeting Web Accssibility Guidelines” course](https://www.pluralsight.com/courses/web-accessibility-meeting-guidelines) — [paid] — practical course with code examples to meet Section 508 and/or WCAG 2.0 requirements for government/education projects
 * [Udacity Web Accessibility course, by Google](https://www.udacity.com/course/web-accessibility--ud891) — [free] — practical course focused on front-end design and development regarding markup and visual styling
 
