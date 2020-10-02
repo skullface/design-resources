@@ -198,6 +198,8 @@
 * [TypeKit](https://typekit.com/) — included with Adobe CC subscription, some fonts & families are only available for desktop _or_ web use. larger selection available for individual purchase through Typekit Marketplace
 * [Type Network](http://www.typenetwork.com/) — incredibly high-quality fonts by select independent foundries
 * [YouWorkForThem](https://www.youworkforthem.com/fonts/) — thousands of fonts in the “original creative marketplace”
+* [Behance](https://www.behance.net/) - Behance is the place where some of the world's best designers showcase their creative work.
+* [urbanfonts](https://www.urbanfonts.com/)- Think of Urbanfonts as the modern, polished version of Dafont. The website is easier to use and more pleasing to the eye.
 
 #### Individual foundries
 * [A2 Type](http://www.a2-type.co.uk/)
