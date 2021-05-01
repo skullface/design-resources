@@ -175,6 +175,7 @@
 * [Google Material design colors](https://material.io/color/#!/?view.left=1&view.right=0) — choose from all the hues in Google’s material design palette, see a tint and shade of each, and test against white & black text for accessibility
 * [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
 * [Paletteable](http://www.palettable.io/) — interactive color palette generator
+* [Paletter](http://www.paletter.app/) — create color palettes from a single color
 * [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
 * [Wikipedia’s category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates) — if you wanna nerd out
 
