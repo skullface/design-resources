@@ -172,6 +172,7 @@
 ## Colors and color palettes
 * [clrs.cc](http://clrs.cc/) — really pretty default colors for prototyping
 * [Coolors](https://coolors.co/app) — interactive color palette generator
+* [Branition Colors](https://branition.com/colors) — hand-curated color palettes best fitted for branding 
 * [Google Material design colors](https://material.io/color/#!/?view.left=1&view.right=0) — choose from all the hues in Google’s material design palette, see a tint and shade of each, and test against white & black text for accessibility
 * [Kuler](https://color.adobe.com/create/color-wheel/) — Adobe color palette resource
 * [Paletteable](http://www.palettable.io/) — interactive color palette generator
