@@ -177,6 +177,7 @@
 * [Paletteable](http://www.palettable.io/) — interactive color palette generator
 * [Sip](http://sipapp.io/) — macOS and iOS colorpicker app, allows you to save custom palettes
 * [Wikipedia’s category for color shades](https://en.wikipedia.org/wiki/Category:Shades_of_color_templates) — if you wanna nerd out
+* [Sez](https://sez.c-sharptutorial.com/) — Instantly apply and generate color palettes for HTML website themes without opening an editor or IDE.
 
 #### Accessible color palettes
 * [Randoma11y](https://randoma11y.com/) — accessibility-friendly random color generator for text & background combinations
