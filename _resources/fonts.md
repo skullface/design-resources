@@ -18,6 +18,7 @@ layout: post
 - [Bold Monday](https://www.boldmonday.com/)
 - [Colophon](http://www.colophon-foundry.org/)
 - [Commercial Type](https://commercialtype.com/)
+- [Cursive Generation](https://cursive-generation.com/fonts)
 - [Dalton Maag](https://www.daltonmaag.com/)
 - [DSType](http://www.dstype.com/)
 - [Font Bureau](http://fontbureau.typenetwork.com/)
